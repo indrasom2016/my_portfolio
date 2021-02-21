@@ -1,0 +1,26 @@
+.img-resize {
+    width: 10em;
+    height: 7em;
+  }
+  
+  .style {
+    font-size: 20px;
+  }
+  
+  .jumbo-style {
+    background-image: linear-gradient(-225deg, #72158f 0%, #340b44 48%, #e6a61e 100%);
+  }
+  .cd{
+      width:auto;
+      background-image: url('https://images.unsplash.com/photo-1511184150666-9bb7d41a88f4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80');
+      background-size: cover;
+  }
+  .body-title-style {
+    font-size: 25px;
+    font-weight: 800;
+  }
+  .font-details-b {
+    font-size: 3em;
+    font-family: Bangers;
+    color: #ffffff;
+  }

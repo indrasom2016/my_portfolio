@@ -1,0 +1,35 @@
+.focus {
+    transition: transform 0.3s;
+  }
+  
+  .focus:hover {
+    transform: scale(1.05);
+  }
+  .card{
+      width: 250px;
+      background-color: rgb(215, 225, 230);
+  }
+  .card-title {
+    font-size: 2em;
+    font-family: 'Lobster';
+    font-weight: 700;
+    text-align: center;
+  }
+  .rw{
+      margin-left: 55px;
+  }
+  .image-style {
+    width: 3em;
+  }
+  
+  .font-details {
+    font-size: 3em;
+    font-weight: 500;
+    color: #231d5af8;
+  }
+  
+  .font-details-b {
+    font-size: 3em;
+    font-family: Bangers;
+    color: #ffffff;
+  }

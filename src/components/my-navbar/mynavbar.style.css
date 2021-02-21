@@ -1,0 +1,31 @@
+.logo {
+    width: 7%;
+  }
+  
+  .nav-theme {
+    background-color: #101018f8;
+    font-size: 20px;
+    
+  }
+  .nav-link{
+      margin-right: 8px;
+      margin-left: 8px;
+      font-family: 'Lobster';
+  }
+  .nav-link:hover{
+      transition: .4s;
+  }
+  
+  .animate-navbar {
+    box-shadow: 1px 1px 1px #222;
+    animation: moveDown 0.5s ease-in-out;
+  }
+  
+  @keyframes moveDown {
+    from {
+      transform: translateY(-5rem);
+    }
+    to {
+      transform: translateY(0rem);
+    }
+  }

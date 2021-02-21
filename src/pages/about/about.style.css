@@ -1,0 +1,22 @@
+.about {
+    background-color: transparent;
+    font-size: 1em;
+  }
+  
+  .profile {
+    width: 18em;
+  }
+  .profile:hover{
+    width: 20em;
+    transition: .5s;
+  }
+  .font-details {
+    font-size: 3em;
+    font-family: Bangers;
+    
+    color: #231d5af8;
+  }
+  .my-details {
+    background-color: rgba(255, 255, 255, 0.747);
+    
+  }
